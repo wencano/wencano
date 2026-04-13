@@ -1,5 +1,5 @@
 # wencano
  
-Hi there! I'm Wen Cano, a seasoned web dev based in the Philippines.  I design and develop websites, online stores, and custom web  apps using the best tech stack for the job.
+Hi, I'm Wen Cano — a full stack engineer and AI systems builder based in the Philippines with 15+ years in the field. I help you plan, build, and ship marketing sites, ecommerce, and custom software — shaped around your timeline, budget, and what you're trying to achieve.
 
-I'm here to help you reach more customers,  sell online from anywhere, and simplify business processes. [Let's connect! 🔥](https://wencano.com)
+Whether you need to reach more customers, sell online, or streamline internal workflows, get in touch and we'll talk it through. [Let's connect! 🔥](https://wencano.com)
